@@ -2,6 +2,7 @@
 # 2. Explain .env and .flaskenv and create them
 # 3. Explain the init file how it works
 
+
 import fire
 import json
 import os
